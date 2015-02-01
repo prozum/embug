@@ -1,4 +1,3 @@
 embug
 =====
-
-Tool to test embedded programs
+Tool to debug embedded programs
