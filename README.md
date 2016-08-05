@@ -1,3 +1,3 @@
 embug
 =====
-A debugger for embedded programs
+Debugger for embedded programs
